@@ -1,0 +1,119 @@
+2017-08-15 16:49:25,421 Store.py[line:64] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 33, in run
+    data = parser.jsonParser(message)
+  File "D:\pyworkspace\server\MsgParserBox.py", line 20, in jsonParser
+    message = json.loads(jsoncontent)
+  File "C:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+2017-08-15 16:49:45,937 Store.py[line:64] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 33, in run
+    data = parser.jsonParser(message)
+  File "D:\pyworkspace\server\MsgParserBox.py", line 20, in jsonParser
+    message = json.loads(jsoncontent)
+  File "C:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+2017-08-15 16:49:45,938 Store.py[line:64] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 33, in run
+    data = parser.jsonParser(message)
+  File "D:\pyworkspace\server\MsgParserBox.py", line 20, in jsonParser
+    message = json.loads(jsoncontent)
+  File "C:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+2017-08-15 16:49:49,411 Store.py[line:64] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 33, in run
+    data = parser.jsonParser(message)
+  File "D:\pyworkspace\server\MsgParserBox.py", line 20, in jsonParser
+    message = json.loads(jsoncontent)
+  File "C:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+2017-08-15 16:49:49,661 Store.py[line:64] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 33, in run
+    data = parser.jsonParser(message)
+  File "D:\pyworkspace\server\MsgParserBox.py", line 20, in jsonParser
+    message = json.loads(jsoncontent)
+  File "C:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+2017-08-15 16:49:50,408 Store.py[line:64] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 33, in run
+    data = parser.jsonParser(message)
+  File "D:\pyworkspace\server\MsgParserBox.py", line 20, in jsonParser
+    message = json.loads(jsoncontent)
+  File "C:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+2017-08-15 16:49:53,415 Store.py[line:64] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 33, in run
+    data = parser.jsonParser(message)
+  File "D:\pyworkspace\server\MsgParserBox.py", line 20, in jsonParser
+    message = json.loads(jsoncontent)
+  File "C:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+2017-08-18 14:19:50,298 Store.py[line:65] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 52, in run
+    alarmUtil.saveAlarmInfo(dataList)
+  File "D:\pyworkspace\server\processcore\AlarmUtil.py", line 42, in saveAlarmInfo
+    logger.warning('收到报警-' + '报警类型：' + self.sqlcluster.selectNameByAlarmType(int(dictAlarmEvent['AlarmType']) + ' 报警级别：' + alarmLevel))
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2017-08-18 14:19:51,244 Store.py[line:65] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 52, in run
+    alarmUtil.saveAlarmInfo(dataList)
+  File "D:\pyworkspace\server\processcore\AlarmUtil.py", line 42, in saveAlarmInfo
+    logger.warning('收到报警-' + '报警类型：' + self.sqlcluster.selectNameByAlarmType(int(dictAlarmEvent['AlarmType']) + ' 报警级别：' + alarmLevel))
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2017-08-18 14:20:10,355 Store.py[line:65] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 52, in run
+    alarmUtil.saveAlarmInfo(dataList)
+  File "D:\pyworkspace\server\processcore\AlarmUtil.py", line 42, in saveAlarmInfo
+    logger.warning('收到报警-' + '报警类型：' + self.sqlcluster.selectNameByAlarmType(int(dictAlarmEvent['AlarmType']) + ' 报警级别：' + alarmLevel))
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2017-08-18 14:21:57,671 Store.py[line:65] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 52, in run
+    alarmUtil.saveAlarmInfo(dataList)
+  File "D:\pyworkspace\server\processcore\AlarmUtil.py", line 42, in saveAlarmInfo
+    logger.warning('收到报警-' + '报警类型：' + self.sqlcluster.selectNameByAlarmType(int(dictAlarmEvent['AlarmType']) + ' 报警级别：' + self.sqlcluster.selectNameByAlarmLevel(int(alarmLevel))))
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2017-08-18 14:23:51,641 Store.py[line:65] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 52, in run
+    alarmUtil.saveAlarmInfo(dataList)
+  File "D:\pyworkspace\server\processcore\AlarmUtil.py", line 42, in saveAlarmInfo
+    logger.warning('收到报警-' + '报警类型：' + self.sqlcluster.selectNameByAlarmType(int(dictAlarmEvent['AlarmType']) + ' 报警级别：' + self.sqlcluster.selectNameByAlarmLevel(int(alarmLevel))))
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2017-08-18 14:24:12,573 Store.py[line:65] Thread-105 ERROR Error occured!!!
+Traceback (most recent call last):
+  File "D:\pyworkspace\server\Store.py", line 52, in run
+    alarmUtil.saveAlarmInfo(dataList)
+  File "D:\pyworkspace\server\processcore\AlarmUtil.py", line 42, in saveAlarmInfo
+    logger.warning('收到报警-' + '报警类型：' + self.sqlcluster.selectNameByAlarmType(int(dictAlarmEvent['AlarmType']) + ' 报警级别：' + self.sqlcluster.selectNameByAlarmLevel(int(alarmLevel))))
+TypeError: unsupported operand type(s) for +: 'int' and 'str'

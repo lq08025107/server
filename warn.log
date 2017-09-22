@@ -1,0 +1,268 @@
+2017-09-01 09:37:53,645 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-01 09:37:53,645 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-01 09:39:35,187 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 09:39:35,194 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-01 09:39:35,861 AutoSco.py[line:138] Thread-3 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-01 09:39:35,861 AutoSco.py[line:139] Thread-3 WARNING 开启报警包-包ID：1304
+2017-09-01 09:39:35,867 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-01 09:39:35,872 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：移动过快,级别：提示
+2017-09-01 09:39:35,878 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：移动过快,级别：提示
+2017-09-01 09:39:41,234 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 09:39:41,240 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-01 09:39:41,247 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-01 09:39:41,252 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：移动过快,级别：提示
+2017-09-01 09:39:41,256 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：移动过快,级别：提示
+2017-09-01 09:43:11,181 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 09:43:11,184 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-01 09:43:11,190 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-01 09:43:11,196 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：移动过快,级别：提示
+2017-09-01 09:43:11,203 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：移动过快,级别：提示
+2017-09-01 09:43:15,181 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 09:43:15,184 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：夜间接近 报警级别：提示
+2017-09-01 09:43:15,190 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：夜间接近,级别：提示
+2017-09-01 09:43:15,194 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：夜间接近,级别：低级
+2017-09-01 09:43:15,201 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：夜间接近,--发现动作序列：移动过快,夜间接近
+2017-09-01 09:43:15,206 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：夜间接近,级别：中级
+2017-09-01 09:53:28,188 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 09:53:28,194 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：夜间接近 报警级别：提示
+2017-09-01 09:53:28,200 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：夜间接近,级别：提示
+2017-09-01 09:53:28,210 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：夜间接近,级别：低级
+2017-09-01 09:53:28,219 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：夜间接近,--发现动作序列：移动过快,夜间接近
+2017-09-01 09:53:28,226 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：夜间接近,级别：中级
+2017-09-01 10:04:52,197 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:04:52,200 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-01 10:04:52,207 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-01 10:04:52,213 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：移动过快,级别：低级
+2017-09-01 10:04:52,220 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：夜间接近,移动过快
+2017-09-01 10:04:52,227 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：移动过快,夜间接近
+2017-09-01 10:04:52,233 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：移动过快,级别：高级
+2017-09-01 10:04:52,565 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:04:52,572 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：人员跌倒 报警级别：提示
+2017-09-01 10:04:52,581 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：人员跌倒,级别：提示
+2017-09-01 10:04:52,592 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：人员跌倒,级别：低级
+2017-09-01 10:04:52,607 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：人员跌倒,--发现动作序列：夜间接近,移动过快
+2017-09-01 10:04:52,617 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：人员跌倒,--发现动作序列：移动过快,夜间接近
+2017-09-01 10:04:52,627 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：人员跌倒,级别：高级
+2017-09-01 10:06:26,084 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:06:26,091 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：人员跌倒 报警级别：提示
+2017-09-01 10:06:26,095 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：人员跌倒,级别：提示
+2017-09-01 10:06:26,101 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：人员跌倒,级别：低级
+2017-09-01 10:06:26,107 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：人员跌倒,--发现动作序列：夜间接近,移动过快
+2017-09-01 10:06:26,111 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：人员跌倒,--发现动作序列：移动过快,夜间接近
+2017-09-01 10:06:26,117 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：人员跌倒,级别：高级
+2017-09-01 10:08:40,230 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:08:40,233 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-01 10:08:40,240 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-01 10:08:40,243 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：低级
+2017-09-01 10:08:40,249 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：剧烈运动,--发现动作序列：夜间接近,移动过快
+2017-09-01 10:08:40,253 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：剧烈运动,--发现动作序列：移动过快,夜间接近
+2017-09-01 10:08:40,259 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：高级
+2017-09-01 10:18:01,214 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:18:01,217 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-01 10:18:01,223 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-01 10:18:01,227 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：移动过快,级别：低级
+2017-09-01 10:18:01,233 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：夜间接近,移动过快
+2017-09-01 10:18:01,237 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：移动过快,夜间接近
+2017-09-01 10:18:01,246 AutoSco.py[line:217] Thread-3 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：人员跌倒,剧烈运动,移动过快
+2017-09-01 10:18:01,252 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：移动过快,级别：最高级
+2017-09-01 10:18:01,259 AutoSco.py[line:123] Thread-3 WARNING <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2017-09-01 10:18:01,260 AutoSco.py[line:125] Thread-3 WARNING 满级结束报警包-包ID：1304
+2017-09-01 10:25:30,180 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:25:30,184 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：夜间接近 报警级别：提示
+2017-09-01 10:25:30,601 AutoSco.py[line:138] Thread-3 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-01 10:25:30,601 AutoSco.py[line:139] Thread-3 WARNING 开启报警包-包ID：1305
+2017-09-01 10:25:30,605 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：夜间接近,级别：提示
+2017-09-01 10:25:30,612 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：夜间接近,级别：提示
+2017-09-01 10:25:30,621 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：夜间接近,级别：提示
+2017-09-01 10:40:30,785 AutoSco.py[line:123] Thread-3 WARNING <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2017-09-01 10:40:30,786 AutoSco.py[line:127] Thread-3 WARNING 超时结束报警包-包ID：1305
+2017-09-01 10:51:57,111 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:51:57,115 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：镜头异常 报警级别：中级
+2017-09-01 10:51:58,032 AutoSco.py[line:138] Thread-21 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-01 10:51:58,032 AutoSco.py[line:139] Thread-21 WARNING 开启报警包-包ID：1306
+2017-09-01 10:51:58,039 AutoSco.py[line:170] Thread-21 WARNING 报警级别-初始-报警类型：镜头异常,级别：中级
+2017-09-01 10:51:58,043 AutoSco.py[line:203] Thread-21 WARNING 报警级别-基础规则-报警类型：镜头异常,级别：中级
+2017-09-01 10:51:58,049 AutoSco.py[line:222] Thread-21 WARNING 报警级别-额外规则-报警类型：镜头异常,级别：中级
+2017-09-01 10:52:18,194 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 10:52:18,197 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-01 10:52:18,207 AutoSco.py[line:170] Thread-21 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-01 10:52:18,213 AutoSco.py[line:203] Thread-21 WARNING 报警级别-基础规则-报警类型：移动过快,级别：中级
+2017-09-01 10:52:18,221 AutoSco.py[line:222] Thread-21 WARNING 报警级别-额外规则-报警类型：移动过快,级别：中级
+2017-09-01 11:06:59,190 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 11:06:59,194 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-01 11:06:59,200 AutoSco.py[line:170] Thread-21 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-01 11:06:59,206 AutoSco.py[line:203] Thread-21 WARNING 报警级别-基础规则-报警类型：移动过快,级别：中级
+2017-09-01 11:06:59,211 AutoSco.py[line:222] Thread-21 WARNING 报警级别-额外规则-报警类型：移动过快,级别：中级
+2017-09-01 11:07:00,163 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 11:07:00,173 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：夜间接近 报警级别：提示
+2017-09-01 11:07:00,180 AutoSco.py[line:170] Thread-21 WARNING 报警级别-初始-报警类型：夜间接近,级别：提示
+2017-09-01 11:07:00,187 AutoSco.py[line:203] Thread-21 WARNING 报警级别-基础规则-报警类型：夜间接近,级别：中级
+2017-09-01 11:07:00,194 AutoSco.py[line:217] Thread-21 WARNING 报警级别-额外规则-动作序列-报警类型：夜间接近,--发现动作序列：移动过快,夜间接近
+2017-09-01 11:07:00,201 AutoSco.py[line:222] Thread-21 WARNING 报警级别-额外规则-报警类型：夜间接近,级别：高级
+2017-09-01 11:07:09,177 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 11:07:09,180 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-01 11:07:09,184 AutoSco.py[line:170] Thread-21 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-01 11:07:09,187 AutoSco.py[line:203] Thread-21 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：中级
+2017-09-01 11:07:09,193 AutoSco.py[line:217] Thread-21 WARNING 报警级别-额外规则-动作序列-报警类型：剧烈运动,--发现动作序列：移动过快,夜间接近
+2017-09-01 11:07:09,203 AutoSco.py[line:217] Thread-21 WARNING 报警级别-额外规则-动作序列-报警类型：剧烈运动,--发现动作序列：移动过快,夜间接近,剧烈运动
+2017-09-01 11:07:09,207 AutoSco.py[line:222] Thread-21 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：最高级
+2017-09-01 11:07:09,217 AutoSco.py[line:123] Thread-21 WARNING <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2017-09-01 11:07:09,217 AutoSco.py[line:125] Thread-21 WARNING 满级结束报警包-包ID：1306
+2017-09-01 11:20:27,342 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-01 11:20:27,345 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-01 11:20:27,565 AutoSco.py[line:138] Thread-7 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-01 11:20:27,565 AutoSco.py[line:139] Thread-7 WARNING 开启报警包-包ID：1307
+2017-09-01 11:20:27,569 AutoSco.py[line:170] Thread-7 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-01 11:20:27,573 AutoSco.py[line:203] Thread-7 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：提示
+2017-09-01 11:20:27,582 AutoSco.py[line:222] Thread-7 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：提示
+2017-09-18 18:17:04,301 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 18:17:04,301 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 18:32:50,749 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 18:32:50,754 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 18:34:56,605 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 18:34:56,605 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 18:54:16,292 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 18:54:16,292 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 19:20:24,788 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 19:20:24,788 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 19:47:06,637 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 19:47:06,652 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：镜头异常 报警级别：中级
+2017-09-18 19:47:15,462 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 19:47:15,463 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：镜头异常 报警级别：中级
+2017-09-18 19:51:51,722 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 19:51:51,723 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：夜间接近 报警级别：提示
+2017-09-18 19:52:19,986 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 19:52:19,987 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-18 19:52:47,454 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 19:52:47,455 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 19:53:22,815 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 19:53:22,815 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 19:53:31,902 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 19:53:31,903 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 19:59:55,995 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 19:59:55,996 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 20:00:07,558 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 20:00:07,560 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 20:01:16,600 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 20:01:16,601 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 20:01:54,935 AlarmUtil.py[line:43] Thread-109 WARNING ----------------------------------------------------------
+2017-09-18 20:02:08,803 AlarmUtil.py[line:44] Thread-109 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 20:04:10,229 AlarmUtil.py[line:43] Thread-109 WARNING ----------------------------------------------------------
+2017-09-18 20:04:12,633 AlarmUtil.py[line:44] Thread-109 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 20:04:35,346 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 20:04:35,347 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 20:04:53,076 AlarmUtil.py[line:43] Thread-110 WARNING ----------------------------------------------------------
+2017-09-18 20:04:53,082 AlarmUtil.py[line:44] Thread-110 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 20:07:29,877 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-18 20:07:29,877 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-18 20:07:34,267 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 20:07:34,268 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 20:07:35,034 AutoSco.py[line:138] Thread-6 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-18 20:07:35,035 AutoSco.py[line:139] Thread-6 WARNING 开启报警包-包ID：1313
+2017-09-18 20:07:35,036 AutoSco.py[line:170] Thread-6 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-18 20:07:35,038 AutoSco.py[line:203] Thread-6 WARNING 报警级别-基础规则-报警类型：移动过快,级别：提示
+2017-09-18 20:07:35,041 AutoSco.py[line:222] Thread-6 WARNING 报警级别-额外规则-报警类型：移动过快,级别：提示
+2017-09-18 20:07:53,842 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 20:07:53,843 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：夜间接近 报警级别：提示
+2017-09-18 20:07:53,845 AutoSco.py[line:170] Thread-6 WARNING 报警级别-初始-报警类型：夜间接近,级别：提示
+2017-09-18 20:07:53,847 AutoSco.py[line:203] Thread-6 WARNING 报警级别-基础规则-报警类型：夜间接近,级别：低级
+2017-09-18 20:07:53,850 AutoSco.py[line:217] Thread-6 WARNING 报警级别-额外规则-动作序列-报警类型：夜间接近,--发现动作序列：移动过快,夜间接近
+2017-09-18 20:07:53,852 AutoSco.py[line:222] Thread-6 WARNING 报警级别-额外规则-报警类型：夜间接近,级别：中级
+2017-09-18 20:08:15,431 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 20:08:15,433 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-18 20:08:15,434 AutoSco.py[line:170] Thread-6 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-18 20:08:15,436 AutoSco.py[line:203] Thread-6 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：低级
+2017-09-18 20:08:15,438 AutoSco.py[line:217] Thread-6 WARNING 报警级别-额外规则-动作序列-报警类型：剧烈运动,--发现动作序列：移动过快,夜间接近
+2017-09-18 20:08:15,440 AutoSco.py[line:217] Thread-6 WARNING 报警级别-额外规则-动作序列-报警类型：剧烈运动,--发现动作序列：移动过快,夜间接近,剧烈运动
+2017-09-18 20:08:15,443 AutoSco.py[line:222] Thread-6 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：高级
+2017-09-18 20:08:31,597 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 20:08:31,598 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 20:08:31,600 AutoSco.py[line:170] Thread-6 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-18 20:08:31,602 AutoSco.py[line:203] Thread-6 WARNING 报警级别-基础规则-报警类型：移动过快,级别：低级
+2017-09-18 20:08:31,604 AutoSco.py[line:217] Thread-6 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：移动过快,夜间接近
+2017-09-18 20:08:31,606 AutoSco.py[line:217] Thread-6 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：夜间接近,剧烈运动,移动过快
+2017-09-18 20:08:31,608 AutoSco.py[line:217] Thread-6 WARNING 报警级别-额外规则-动作序列-报警类型：移动过快,--发现动作序列：移动过快,夜间接近,剧烈运动
+2017-09-18 20:08:31,610 AutoSco.py[line:222] Thread-6 WARNING 报警级别-额外规则-报警类型：移动过快,级别：最高级
+2017-09-18 20:08:31,687 AutoSco.py[line:123] Thread-6 WARNING <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2017-09-18 20:08:31,688 AutoSco.py[line:125] Thread-6 WARNING 满级结束报警包-包ID：1313
+2017-09-18 20:11:48,858 AlarmUtil.py[line:43] Thread-105 WARNING ----------------------------------------------------------
+2017-09-18 20:11:48,860 AlarmUtil.py[line:44] Thread-105 WARNING 收到报警-报警类型：移动过快 报警级别：提示
+2017-09-18 20:11:49,226 AutoSco.py[line:138] Thread-3 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-18 20:11:49,226 AutoSco.py[line:139] Thread-3 WARNING 开启报警包-包ID：1314
+2017-09-18 20:11:49,229 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：移动过快,级别：提示
+2017-09-18 20:11:49,231 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：移动过快,级别：提示
+2017-09-18 20:11:49,235 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：移动过快,级别：提示
+2017-09-19 08:41:09,188 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-19 08:41:09,189 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-19 09:35:05,513 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-19 09:35:05,514 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-19 09:35:56,368 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-19 09:35:56,369 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:13:20,530 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:13:20,541 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:14:32,435 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:14:32,435 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:15:49,274 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:15:49,275 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:16:50,600 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:16:50,600 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:17:43,338 AlarmUtil.py[line:43] Thread-106 WARNING ----------------------------------------------------------
+2017-09-20 10:17:43,340 AlarmUtil.py[line:44] Thread-106 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-20 10:17:43,806 AutoSco.py[line:138] Thread-6 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-20 10:17:43,806 AutoSco.py[line:139] Thread-6 WARNING 开启报警包-包ID：1315
+2017-09-20 10:17:43,807 AutoSco.py[line:170] Thread-6 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-20 10:17:43,810 AutoSco.py[line:203] Thread-6 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:17:43,815 AutoSco.py[line:222] Thread-6 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:18:00,825 AlarmUtil.py[line:43] Thread-106 WARNING ----------------------------------------------------------
+2017-09-20 10:18:00,826 AlarmUtil.py[line:44] Thread-106 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-20 10:18:00,828 AutoSco.py[line:170] Thread-6 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-20 10:18:00,830 AutoSco.py[line:203] Thread-6 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:18:00,833 AutoSco.py[line:222] Thread-6 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:20:37,553 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:20:37,553 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:25:31,518 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:25:31,518 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:25:55,178 AlarmUtil.py[line:43] Thread-106 WARNING ----------------------------------------------------------
+2017-09-20 10:25:55,179 AlarmUtil.py[line:44] Thread-106 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-20 10:25:55,657 AutoSco.py[line:138] Thread-3 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-20 10:25:55,658 AutoSco.py[line:139] Thread-3 WARNING 开启报警包-包ID：1316
+2017-09-20 10:25:55,659 AutoSco.py[line:170] Thread-3 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-20 10:25:55,662 AutoSco.py[line:203] Thread-3 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:25:55,666 AutoSco.py[line:222] Thread-3 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:27:13,647 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:27:13,647 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:27:42,009 AlarmUtil.py[line:43] Thread-106 WARNING ----------------------------------------------------------
+2017-09-20 10:27:42,011 AlarmUtil.py[line:44] Thread-106 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-20 10:27:42,788 AutoSco.py[line:138] Thread-4 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-20 10:27:42,789 AutoSco.py[line:139] Thread-4 WARNING 开启报警包-包ID：1317
+2017-09-20 10:27:42,790 AutoSco.py[line:170] Thread-4 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-20 10:27:42,792 AutoSco.py[line:203] Thread-4 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:27:42,795 AutoSco.py[line:222] Thread-4 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:30:12,293 AlarmUtil.py[line:43] Thread-106 WARNING ----------------------------------------------------------
+2017-09-20 10:30:12,294 AlarmUtil.py[line:44] Thread-106 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-20 10:30:12,296 AutoSco.py[line:170] Thread-4 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-20 10:30:12,298 AutoSco.py[line:203] Thread-4 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:30:12,300 AutoSco.py[line:222] Thread-4 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：提示
+2017-09-20 10:30:20,199 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:30:20,200 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:30:51,450 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:30:51,450 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 10:41:10,994 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 10:41:11,011 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 11:00:52,959 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 11:00:52,959 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 11:01:24,030 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 11:01:24,031 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 11:03:58,157 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 11:03:58,157 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s
+2017-09-20 11:05:41,434 AlarmUtil.py[line:43] Thread-106 WARNING ----------------------------------------------------------
+2017-09-20 11:05:41,435 AlarmUtil.py[line:44] Thread-106 WARNING 收到报警-报警类型：剧烈运动 报警级别：提示
+2017-09-20 11:05:42,480 AutoSco.py[line:138] Thread-5 WARNING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-09-20 11:05:42,480 AutoSco.py[line:139] Thread-5 WARNING 开启报警包-包ID：1318
+2017-09-20 11:05:42,481 AutoSco.py[line:170] Thread-5 WARNING 报警级别-初始-报警类型：剧烈运动,级别：提示
+2017-09-20 11:05:42,483 AutoSco.py[line:203] Thread-5 WARNING 报警级别-基础规则-报警类型：剧烈运动,级别：提示
+2017-09-20 11:05:42,486 AutoSco.py[line:222] Thread-5 WARNING 报警级别-额外规则-报警类型：剧烈运动,级别：提示
+2017-09-20 11:20:43,301 AutoSco.py[line:123] Thread-5 WARNING <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2017-09-20 11:20:43,301 AutoSco.py[line:127] Thread-5 WARNING 超时结束报警包-包ID：1318
+2017-09-20 17:30:45,092 AutoSco.py[line:283] MainThread WARNING 程序开始
+2017-09-20 17:30:45,092 AutoSco.py[line:284] MainThread WARNING 读取配置文件-相同警情过滤时间间隔：5000s

@@ -1,0 +1,23 @@
+{
+	"AlarmLevel":1,
+	"CutboardBox":null,
+	"CutboardTimeOffset":null,
+	"EventType":220,
+	"EventTypeProbability":0,
+	"FrameRate":15,
+	"HotspotId":"undefined",
+	"Id":"564afcf66c38520001000853",
+	"PeopleId":"e92aae53b7fb415ba08c92692f559740",
+	"PlanetId":"undefined",
+	"SceneId":"undefined",
+	"SensorId":"a1f20f44503532313300000500d10008",
+	"SliceLength":8510,
+	"StartTime":"2015-11-17T18:09:57.532CST",
+	"TimeLength":8510,
+	"UserId":""
+}
+<?xml version="1.0" ?>
+<WarningData>
+<AlarmType>1</AlarmType>
+<AlarmTime>2</AlarmTime>
+</WarningData>
